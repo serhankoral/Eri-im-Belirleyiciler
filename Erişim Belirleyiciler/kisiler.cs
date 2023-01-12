@@ -9,7 +9,7 @@ namespace Erişim_Belirleyiciler
         private string name;
         private string surname;
         private int age;
-        public string word;
+        internal string word;
 
         public void writing(string ad, string soyad, int yas)
         {
